@@ -1,4 +1,4 @@
-<img src="https://github.com/stdharu/branding/raw/main/stdharu_s.png" width="200"/>
+<img src="https://i.imgur.com/XATHC0S.png" width="200"/>
 <hr/>
 <h3>
   1인 개발팀, 스튜디오 하루입니다.
