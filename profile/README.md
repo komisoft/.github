@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/bzM7847.png" height="80"/>
+    <img src="https://i.imgur.com/bzM7847.png" width="400"/>
 </p>
 <h2 align="center">
     PROJECTS
